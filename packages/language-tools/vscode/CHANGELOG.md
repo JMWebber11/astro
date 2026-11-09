@@ -1,5 +1,13 @@
 # astro-vscode
 
+## 2.17.3
+
+### Patch Changes
+
+- [#18649](https://github.com/withastro/astro/pull/18649) [`39ede5f`](https://github.com/withastro/astro/commit/39ede5f061297fdda7af945aa8e576f625ab5152) Thanks [@Princesseuh](https://github.com/Princesseuh)! - Publishes the Astro VS Code extension with the fix for `source.organizeImports` only organizing imports in one region of `.astro` files that have both frontmatter and `<script>` tags
+
+- [#18669](https://github.com/withastro/astro/pull/18669) [`c92decc`](https://github.com/withastro/astro/commit/c92decc758c115ce23dd037591a0733c742ecec4) Thanks [@renovate](https://github.com/apps/renovate)! - Fixes `astro check` and editor language tools failing to start when pnpm resolves an incompatible WASM runtime.
+
 ## 2.17.2
 
 ### Patch Changes

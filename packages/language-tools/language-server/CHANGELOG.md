@@ -1,5 +1,11 @@
 # @astrojs/language-server
 
+## 2.17.4
+
+### Patch Changes
+
+- [#18669](https://github.com/withastro/astro/pull/18669) [`c92decc`](https://github.com/withastro/astro/commit/c92decc758c115ce23dd037591a0733c742ecec4) Thanks [@renovate](https://github.com/apps/renovate)! - Fixes `astro check` and editor language tools failing to start when pnpm resolves an incompatible WASM runtime.
+
 ## 2.17.3
 
 ### Patch Changes
