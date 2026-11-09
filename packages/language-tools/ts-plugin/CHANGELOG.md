@@ -1,5 +1,17 @@
 # @astrojs/ts-plugin
 
+## 1.11.0
+
+### Minor Changes
+
+- [#18647](https://github.com/withastro/astro/pull/18647) [`f1c5a5f`](https://github.com/withastro/astro/commit/f1c5a5fa8f7478f1424efbc0883e8bbfe75e6e86) Thanks [@florian-lefebvre](https://github.com/florian-lefebvre)! - Updates the Node.js version requirement to `^20.19.0 || >=22.12.0`.
+
+### Patch Changes
+
+- [#18669](https://github.com/withastro/astro/pull/18669) [`c92decc`](https://github.com/withastro/astro/commit/c92decc758c115ce23dd037591a0733c742ecec4) Thanks [@renovate](https://github.com/apps/renovate)! - Fixes `astro check` and editor language tools failing to start when pnpm resolves an incompatible WASM runtime.
+
+- [#18647](https://github.com/withastro/astro/pull/18647) [`f1c5a5f`](https://github.com/withastro/astro/commit/f1c5a5fa8f7478f1424efbc0883e8bbfe75e6e86) Thanks [@florian-lefebvre](https://github.com/florian-lefebvre)! - Fixes TypeScript auto-import suggestions to use the `.astro` component name instead of its generated TSX name.
+
 ## 1.10.12
 
 ### Patch Changes
